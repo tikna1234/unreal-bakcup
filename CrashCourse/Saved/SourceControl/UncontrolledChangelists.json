@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/Unreal Projects/CrashCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/OS/6SKUOF850NDOSW47PCZ1KA.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/CrashCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VZ/FJNK14R9BKRQGRG3CN1VWA.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/CrashCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/CrashCourse/Content/ThirdPerson/Blueprints/BP_Pickup.uasset"
+			]
+		}
+	]
+}
