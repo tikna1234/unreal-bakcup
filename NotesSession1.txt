@@ -1,0 +1,22 @@
+ctrl+z undo
+ctrl+y redo
+click object{
+w translate
+q select object
+e rotate
+r scale
+}
+view mode{
+alt+4 lit
+alt+3 unlit
+alt+2 wireframe
+alt+5 detail lighting
+aly+6 lighting only
+}
+alt+p play mode
+esc escape play mode
+shift+f1 get mouse control back during play mode
+ctrl+space open content drawer
+delete delete object
+alt+click+drag copy object
+for removing differne
